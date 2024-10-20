@@ -3,6 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <title>test</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
         <link rel ="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="/assets/style.css">
         <script src="https://cdn.jsdelivr.net/npm/vue"></script>
@@ -31,6 +33,8 @@
                 echo '<h3>'.$result["nom"].' , '.$result["insee"].'</h3>';
               };
         ?>
+
+        <div id="map"></div>
 
         <script src="assets/javascript.js"></script>
     </body>
