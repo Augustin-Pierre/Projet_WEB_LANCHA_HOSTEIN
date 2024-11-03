@@ -23,6 +23,7 @@
         <div id="map"></div>
         
         <div id="inventaire">
+            <label>Triche<input type="checkbox" name="triche"></label>
             <p><u>INVENTAIRE</u></p>
         </div>
 
