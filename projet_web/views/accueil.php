@@ -62,4 +62,15 @@
         
 
         <script src="assets/javascript.js"></script>
+
+        <!--<div id="fin">
+            <p>Escape game géographique, projet WEB ingénieur 2<sup>ème</sup> année ENSG</p>
+            <p>Augustin-Pierre HOSTEIN, Mélanie LANCHA</p>
+
+        </div>-->
     </body>
+
+    <footer>
+        <p>Escape game géographique, projet WEB ingénieur 2<sup>ème</sup> année ENSG</p>
+        <p>Augustin-Pierre HOSTEIN, Mélanie LANCHA</p>
+    </footer>
