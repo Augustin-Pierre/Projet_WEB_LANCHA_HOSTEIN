@@ -1,4 +1,4 @@
-alert("Ceci est un test");
+// alert("Ceci est un test");
 
 
 Vue.createApp({
